@@ -1,2 +1,3 @@
 # BusinessProcess
-Creating diagram and relating work iduring IPB classes
+#Creating diagram and relating work during IPB classes
+#Draw activity diagrams (with swimlanes)
